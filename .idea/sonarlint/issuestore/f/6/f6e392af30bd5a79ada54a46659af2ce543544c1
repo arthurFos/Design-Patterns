@@ -1,0 +1,13 @@
+
+O
+java:S1481"2Remove this unused "observerImpl1" local variable.(¬ϊ’8όμΆμ.
+c
+java:S1854"ARemove this useless assignment to local variable "observerImpl3".(ÒΎύÿÿÿÿ8ϋƒΙ.
+^
+java:S1854"ARemove this useless assignment to local variable "observerImpl1".(¬ϊ’8όμΆμ.
+]
+java:S1854"ARemove this useless assignment to local variable "observerImpl2".(§¥¨8ϋƒΙ.
+T
+java:S1481"2Remove this unused "observerImpl3" local variable.(ÒΎύÿÿÿÿ8ϋƒΙ.
+N
+java:S1481"2Remove this unused "observerImpl2" local variable.(§¥¨8ϋƒΙ.

@@ -1,0 +1,6 @@
+
+K
+java:S1481")Remove this unused "show" local variable.(ŠïÓáşÿÿÿÿ8ªê¶ì.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ¼£¿
+Z
+java:S1854"8Remove this useless assignment to local variable "show".(ŠïÓáşÿÿÿÿ8ªê¶ì.

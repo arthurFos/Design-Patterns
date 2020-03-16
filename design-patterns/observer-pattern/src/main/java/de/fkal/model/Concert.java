@@ -4,14 +4,12 @@ import de.fkal.observer.Observer;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import lombok.extern.slf4j.Slf4j;
 
 import java.time.ZonedDateTime;
 
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Slf4j
 public class Concert {
 
     private String name;

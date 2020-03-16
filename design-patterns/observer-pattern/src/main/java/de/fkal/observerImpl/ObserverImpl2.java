@@ -1,5 +1,6 @@
 package de.fkal.observerImpl;
 
+import de.fkal.Show;
 import de.fkal.model.Concert;
 import de.fkal.observer.Observer;
 import de.fkal.subject.Subject;
@@ -17,6 +18,6 @@ public class ObserverImpl2 implements Observer {
 
     @Override
     public void update(Concert concert) {
-
+        Show show = () -> concert.toString(this);
     }
 }
