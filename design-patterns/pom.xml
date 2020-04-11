@@ -83,5 +83,6 @@
   <module>strategy-pattern</module>
     <module>observer-pattern</module>
     <module>decorator-pattern</module>
+    <module>factory-method</module>
   </modules>
 </project>
