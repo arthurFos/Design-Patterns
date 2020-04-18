@@ -85,5 +85,6 @@
     <module>decorator-pattern</module>
     <module>factory-method</module>
     <module>abstract-factory</module>
+    <module>singleton-pattern</module>
   </modules>
 </project>
