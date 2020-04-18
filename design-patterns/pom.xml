@@ -84,5 +84,6 @@
     <module>observer-pattern</module>
     <module>decorator-pattern</module>
     <module>factory-method</module>
+    <module>abstract-factory</module>
   </modules>
 </project>
